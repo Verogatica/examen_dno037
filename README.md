@@ -3,5 +3,6 @@
 Dar a conocer mis trabajos universitarios.
 
 **¿Para quienes?**
-!imagen(readme/pp.png)
+![Pp](readme/pp.png)
+
 
