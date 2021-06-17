@@ -7,3 +7,4 @@ Dar a conocer mis trabajos universitarios.
 
 **¿Qué existe que es similar a la propuesta?**
 
+**¿Qué existe que puede inspirar la propuesta?**
