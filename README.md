@@ -20,3 +20,6 @@ https://www.garciajoshua.com/nonprofit Me gusta que haya una barra con distintas
 https://www.maquilts.com/ Me gusta la tipografía y la combinación de colores.
 
 **¿Qué existe que puede inspirar la propuesta?**
+
+https://www.packagingoftheworld.com/, como de muestran los distintos proyectos
+
