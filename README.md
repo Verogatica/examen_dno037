@@ -3,7 +3,7 @@
 Dar a conocer mis trabajos universitarios.
 
 **¿Para quienes?**
-![Pp](readme/pp.png)
+![Pp](readme/pp2.png)
 
 **¿Qué existe que es similar a la propuesta?**
 
