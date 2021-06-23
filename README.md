@@ -30,7 +30,11 @@ Cambiaria: Los colores e ilutraciones.
 
 ![ant](readme/ant4.png)
 
-https://www.instagram.com/p/CNQ6SklIe2s/ la mayoria de mis trabajos son anaranjados/verdes por lo que me gusta el color de fondo y la fusión de colores
+https://www.sophiebritt.com/
+
+Rescato: El display de la pagina es interesante, me gusta como muestra el proyecto y aparece el nombre y el año y luego añade un "ver más" para que podamos ver con detalle de que trata el proyecto.
+
+Cambiaria: haria que el boton
 
 https://www.garciajoshua.com/nonprofit Me gusta que haya una barra con distintas secciones ej: contacto, inicio, infografías, etc aunque prefiero a la derecha antes que la izquierda. 
 
