@@ -1,6 +1,6 @@
 # Exámen dno037
 **¿Para qué?**
-Dar a conocer mis trabajos universitarios.
+Dar a conocer mis trabajos universitarios. Que mi dominio propio comunique mi esencia.
 
 **¿Para quienes?**
 ![Pp](readme/pp2.png)
