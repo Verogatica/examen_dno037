@@ -32,13 +32,23 @@ Cambiaria: Los colores e ilutraciones.
 
 https://www.sophiebritt.com/
 
-Rescato: El display de la pagina es interesante, me gusta como muestra el proyecto y aparece el nombre y el año y luego añade un "ver más" para que podamos ver con detalle de que trata el proyecto.
+Rescato: El display de la pagina es interesante, me gusta como muestra el proyecto y aparece el nombre y el año y luego añade un "ver más" para que podamos ver con detalle de que trata el proyecto. Tambien me gustan los gift que se muestran.
 
-Cambiaria: haria que el boton
+Cambiaria: haria que el botón nos dirigiera nuevamente a la pagina de inicio en vez de mostrarnos con detalle los siguientes proyectos.
 
-https://www.garciajoshua.com/nonprofit Me gusta que haya una barra con distintas secciones ej: contacto, inicio, infografías, etc aunque prefiero a la derecha antes que la izquierda. 
+![ant](readme/ant5.png)
 
-https://www.maquilts.com/ Me gusta la tipografía y la combinación de colores.
+https://www.awwwards.com/inspiration/ui-interactions-of-the-week-5
+
+Rescato: El display de la pagina me encanta, como se abre el libro al y va mostrando ese proyecto, también como no se pierde la imagen de inicio. La ilustracion principal aporta mucho en comunicar la estetica y el tema. Es mi antecedente favorito, todo sigue una misma estetica
+
+![ant](readme/ant6.png)
+
+https://www.maquilts.com/
+
+Rescato: La combinación de colores, y el tamaño de la tipografía. Graficamente me gusta mucho, encuentro que para alguien con problemas a la vista es una propuesta muy acertada.
+
+Cambiaria: Todo el contenido, imagenes.
 
 **¿Qué existe que puede inspirar la propuesta?**
 
