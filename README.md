@@ -53,5 +53,6 @@ Cambiaria: Todo el contenido, imagenes.
 
 **¿Qué existe que puede inspirar la propuesta?**
 
-https://www.packagingoftheworld.com/, como de muestran los distintos proyectos
+![moodboard](readme/mb.png)
 
+Este moodboard es para inspirarme en la grafica, colores, ilustraciones, tipografias, etc. Hay imagenes de los antecedentes y también hay nuevas
