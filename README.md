@@ -37,10 +37,11 @@ Rescato: El display de la pagina es interesante, me gusta como muestra el proyec
 Cambiaria: haria que el botón nos dirigiera nuevamente a la pagina de inicio en vez de mostrarnos con detalle los siguientes proyectos.
 
 ![ant](readme/ant5.png)
+![ant](readme/ant5.1.png)
 
 https://www.awwwards.com/inspiration/ui-interactions-of-the-week-5
 
-Rescato: El display de la pagina me encanta, como se abre el libro al y va mostrando ese proyecto, también como no se pierde la imagen de inicio. La ilustracion principal aporta mucho en comunicar la estetica y el tema. Es mi antecedente favorito, todo sigue una misma estetica
+Rescato: El display de la pagina me encanta, como se abre el libro al y va mostrando ese proyecto, también como no se pierde la imagen de inicio. La ilustracion principal aporta mucho en comunicar la estetica y el tema. Es mi antecedente favorito, todo sigue una misma estetica.
 
 ![ant](readme/ant6.png)
 
