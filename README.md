@@ -10,6 +10,7 @@ Dar a conocer mis trabajos universitarios.
 ![ant](readme/ant1.jpg)
 
 Rescato: -Fila de tres imagenes
+
 Cambiaria: -En vez de cambiar por pagina, deslizaria para mostrar mas trabajos.
 -Haría que las imagenes fueran de distinto tamaño
 -Cuando se vea en el celular solamente una imagen a la vez.
