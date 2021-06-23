@@ -7,17 +7,28 @@ Dar a conocer mis trabajos universitarios.
 
 **Antecedente ¿Qué existe que es similar a la propuesta?** 
 
-![ant](readme/ant1.jpg)
+![ant](readme/ant1.png)
 
-Rescato: -Fila de tres imagenes
+Rescato: Fila de tres imagenes
 
-Cambiaria: -En vez de cambiar por pagina, deslizaria para mostrar mas trabajos.
--Haría que las imagenes fueran de distinto tamaño
--Cuando se vea en el celular solamente una imagen a la vez.
+Cambiaria: En vez de cambiar por pagina, deslizaria para mostrar mas trabajos.
+Haría que las imagenes fueran de distinto tamaño. Cuando se vea en el celular solamente una imagen a la vez.
 
-https://www.instagram.com/p/CPX4EeYjs6S/ Es interesante como se deja espacio al texto y no se fusiona con la imagen, llama más la atención. Me gusta que los iconos de contacto esten a la derecha arriba y que se mantenga para así sea más facil ubicarme.
+![ant](readme/ant2.png)
 
-https://www.awwwards.com/sites/wildwood-bakery me agradan las ilustraciones 2D al inicio.
+Rescato: Como usa el color para resaltar lo importante y los contrastes que se generan. La barra de menu al costado
+
+Cambiaria: La tipografia sans-serif no me agrada, ni el color de fondo.
+
+![ant](readme/ant3.png)
+
+https://www.awwwards.com/sites/wildwood-bakery 
+
+Rescato: Me gusta como se integra la ilustracion al sitio web, como se distorciona la palabra "wildwood". Acotarse a 3 colores encuentro que suma porque se le da más importancia a los trabajos expuestos. También como se fusionan la tipografía y las imagenes y se leen juntas, la diagramacion me gusta. 
+
+Cambiaria: Los colores e ilutraciones.
+
+![ant](readme/ant4.png)
 
 https://www.instagram.com/p/CNQ6SklIe2s/ la mayoria de mis trabajos son anaranjados/verdes por lo que me gusta el color de fondo y la fusión de colores
 
