@@ -466,8 +466,8 @@ progress {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
-}
+  font-weight: 400;
+  margin-left: ;}
 
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
@@ -10901,7 +10901,11 @@ html {
 }
 .divider-custom .divider-custom-icon {
   color: #ED6942;
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+.divider-custom .divider-custom-icon2 {
+  color: #ED6942;
+  font-size: 1.2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
   background-color: #fff;
@@ -11011,7 +11015,7 @@ html {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: url("https://raw.githubusercontent.com/Verogatica/final_dno037/main/img/bgrnd-01.png");
+  background: url("https://raw.githubusercontent.com/Verogatica/final_dno037/main/assets/img/portfolio/fondoliv1-03.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11024,7 +11028,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 10rem;
 }
 
 @media (min-width: 992px) {
@@ -11037,7 +11041,7 @@ html {
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 }
 .portfolio .portfolio-item {
@@ -11045,7 +11049,7 @@ html {
   position: relative;
   display: block;
   max-width: 25rem;
-  border-radius: 0.5rem;
+  border-radius: 0.2rem;
   overflow: hidden;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
@@ -11089,3 +11093,60 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+.content-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
+
+.content-section-heading h2, .content-section-heading .h2 {
+  font-size: 2.8rem;
+  color: #041902
+}
+.content-section-heading h3, .content-section-heading .h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+
+.service-icon {
+  background-color: #fff;
+  color: #ED6942;
+  height: 7rem;
+  width: 7rem;
+  display: block;
+  line-height: 7.5rem;
+  font-size: 2.25rem;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.text-faded {
+  color: #041902;
+  font-size
+}
+
+.b,
+strong {
+  font-weight: bolder;
+  color: #041902
+}
+
+.page-section  {
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-position: center center;
+  background: url("https://raw.githubusercontent.com/Verogatica/final_dno037/main/assets/img/portfolio/fondo3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about {
+  background: url("https://raw.githubusercontent.com/Verogatica/final_dno037/main/assets/img/portfolio/fondomarmolivsi.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
